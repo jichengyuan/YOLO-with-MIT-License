@@ -1,0 +1,5 @@
+class_list: [bench, generic object]
+class_num: 2
+path: data/processedDell
+train: train2017
+validation: val2017

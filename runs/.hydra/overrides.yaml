@@ -1,0 +1,6 @@
+- task=train
+- task.data.batch_size=8
+- model=v9-c
+- dataset=dellData
+- task.epoch=10
+- weight=True
