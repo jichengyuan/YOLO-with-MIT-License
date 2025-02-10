@@ -8,7 +8,7 @@ This repository will contains the complete codebase, pre-trained models, and  in
 - For quick deployment: you can directly install by pip+git:
 
 ```shell
-pip install git+https://github.com/WongKinYiu/YOLO.git
+pip install git+https://jichengyuan/YOLO-with-MIT-License.git
 yolo task.data.source=0 # source could be a single file, video, image folder, webcam ID
 ```
 
